@@ -117,7 +117,7 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 ## Community
 
 Stay connected and get involved:
-- 🌐 **Website:** [sonoma-labs.io](https://sonoma-labs.io)
+- 🌐 **Website:** [sonoma-labs.com](https://sonoma-labs.com)
 - 🐦 **Twitter:** [@labs_sonoma](https://twitter.com/labs_sonoma)
 
 ## License

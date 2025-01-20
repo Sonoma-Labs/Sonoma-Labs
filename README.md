@@ -1,4 +1,4 @@
-# Sonoma Labs Toolkit
+# Sonoma Labs
 
 The **Sonoma Labs Toolkit** is a flexible and modular framework designed to revolutionize AI development and agent integration on the Solana blockchain. By combining cutting-edge AI tools with the speed and scalability of Solana, this toolkit empowers developers to build intelligent, blockchain-based systems with ease.
 

@@ -112,7 +112,7 @@ We welcome contributions to enhance the Sonoma Labs Toolkit! To contribute:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
+Please read our [Contributing Guidelines](Contribute.md) for more details.
 
 ## Community
 

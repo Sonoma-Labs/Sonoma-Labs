@@ -1,10 +1,9 @@
 # Sonoma Labs Toolkit
 
 <div align="center">
-  <img src="assets/sonoma-labs-logo.png" alt="Sonoma Labs Logo" width="200"/>
+  <img src="https://media.discordapp.net/attachments/1199317611058577408/1330471801322733588/sonomapfp1_Nero20AI_image_denoiser_Nero_AI_Photo.jpeg?ex=678ec2ac&is=678d712c&hm=96bfc8ca5dd4de7bf068646cd608702fd7c88089e4b8fcec17b7aab9d64d9cd5&=&format=webp&width=701&height=701" alt="Sonoma Labs Logo" width="200"/>
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  [![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID)](https://discord.gg/sonoma-labs)
   [![Twitter Follow](https://img.shields.io/twitter/follow/labs_sonoma?style=social)](https://twitter.com/labs_sonoma)
 </div>
 
@@ -119,10 +118,7 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
 Stay connected and get involved:
 - 🌐 **Website:** [sonoma-labs.io](https://sonoma-labs.io)
-- 💬 **Discord:** [Join our community](https://discord.gg/sonoma-labs)
 - 🐦 **Twitter:** [@labs_sonoma](https://twitter.com/labs_sonoma)
-- 📝 **Blog:** [blog.sonoma-labs.io](https://blog.sonoma-labs.io)
-- 🎮 **Developer Forum:** [forum.sonoma-labs.io](https://forum.sonoma-labs.io)
 
 ## License
 

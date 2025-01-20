@@ -1,7 +1,7 @@
 # Sonoma Labs Toolkit
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/1199317611058577408/1330471801322733588/sonomapfp1_Nero20AI_image_denoiser_Nero_AI_Photo.jpeg?ex=678ec2ac&is=678d712c&hm=96bfc8ca5dd4de7bf068646cd608702fd7c88089e4b8fcec17b7aab9d64d9cd5&=&format=webp&width=701&height=701" alt="Sonoma Labs Logo" width="200"/>
+  <img src="https://media.discordapp.net/attachments/1199317611058577408/1330772151049130034/Add_a_heading.jpg?ex=678f31a5&is=678de025&hm=a6b483c0e27436df6f392f52a6e41a7ecdf0e238a7c85ee998b4aaa0f1040aa7&=&format=webp&width=1439&height=479" alt="Sonoma Labs Banner" width="800"/>
   
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   [![Twitter Follow](https://img.shields.io/twitter/follow/labs_sonoma?style=social)](https://twitter.com/labs_sonoma)

@@ -1,4 +1,4 @@
-# Sonoma Labs Toolkit
+# Sonoma Labs
 
 <div align="center">
   <img src="https://media.discordapp.net/attachments/1199317611058577408/1330772151049130034/Add_a_heading.jpg?ex=678f31a5&is=678de025&hm=a6b483c0e27436df6f392f52a6e41a7ecdf0e238a7c85ee998b4aaa0f1040aa7&=&format=webp&width=1439&height=479" alt="Sonoma Labs Banner" width="800"/>
